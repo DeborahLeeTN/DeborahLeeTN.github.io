@@ -1,0 +1,24 @@
+img{
+  width: 280px;
+  height: 210px;
+  border-radius: 200px;
+}
+.bar{
+  background-color: yellow;
+  margin-bottom: 25px;
+}
+
+.border{
+  border-left: solid black 1px;
+  border-right: solid black 1px;
+}
+
+.exp{
+  margin: 50px;
+}
+.triangle{
+  border-right: solid black 1px;
+}
+header{
+  background-color: solid black;
+}
